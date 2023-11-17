@@ -478,3 +478,7 @@ blockquote p {
 section {
   margin-bottom: 1em;
 }
+
+a {
+  color: #3776ab;
+}
