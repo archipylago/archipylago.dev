@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Juha-Matti Santala",
+    "title": "Community guy",
+    "links": [
+      {
+        "icon": "mastodon",
+        "url": "https://mastodon.world/@hamatti"
+      },
+      {
+        "icon": "website",
+        "url": "https://hamatti.org"
+      },
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/juhamattisantala"
+      }
+    ]
+  },
+  {
+    "name": "Dan Palmer",
+    "title": "Strategy Designer & Developer",
+    "links": [
+      {
+        "icon": "website",
+        "url": "https://idealic.digital/"
+      },
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/danieljpalmer/"
+      }
+    ]
+  }
+]
