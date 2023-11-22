@@ -1,0 +1,10 @@
+{% if sponsors.length > 0 %}
+<section>
+  <h2>We are working with</h2>
+  <div id="sponsors">
+    {% for sponsor in sponsors %} {{ sponsor | formatSponsorLogo | safe }} {%
+    endfor %}
+  </div>
+</section>
+<hr />
+{% endif %}
