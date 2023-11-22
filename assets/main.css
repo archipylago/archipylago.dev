@@ -22,6 +22,7 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 html,
 body {
   height: 100%;
+  font-size: 18px;
 }
 /*
     Typographic tweaks!
@@ -75,10 +76,14 @@ h6 {
 /* Our CSS */
 body {
   font-family: "Source Sans Pro", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 main {
   padding: 1em;
   margin-bottom: 2em;
+  flex: 1;
 }
 
 h2 {
@@ -489,6 +494,11 @@ a {
   margin-bottom: 1em;
 }
 
+#blog-post h2 {
+  font-size: 1.5em;
+  margin: 0.75em 0;
+}
+
 nav {
   max-width: 80ch;
   margin: auto;
@@ -506,3 +516,4 @@ nav ul {
 #blog-index h1 {
   margin-bottom: 1em;
 }
+
