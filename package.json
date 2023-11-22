@@ -22,6 +22,8 @@
   "homepage": "https://github.com/archipylago/archipylago.dev#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "markdown-it": "^13.0.2",
     "slugify": "^1.6.6"
   }
 }

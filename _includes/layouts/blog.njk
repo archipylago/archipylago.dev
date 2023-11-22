@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+---
+
+<div id="blog-post">
+    <header>
+        <h1>{{ title }}</h1>
+        <div class="info">
+            <span class="date">Published {{ date | toLocalDateYear }}</span>
+            <span class="author">by {{ author }}</span>
+        </div>
+        </header>
+
+{{ content | safe }}
+</div>

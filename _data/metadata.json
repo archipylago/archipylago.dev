@@ -1,0 +1,10 @@
+{
+    "title": "archipylago",
+    "locale": "en_US",
+    "description": "A friendly Python community in Turku, Finland",
+    "url": "https://archipylago.dev",
+    "author": {
+      "name": "Juha-Matti Santala",
+      "email": "juhamattisantala@gmail.com"
+    }
+  }
