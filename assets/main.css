@@ -300,7 +300,10 @@ footer .contact a:hover {
   margin-bottom: 1em;
 }
 
-
+body > header {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1em;
+}
 
 header img {
   max-height: 100%;
