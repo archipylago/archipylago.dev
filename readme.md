@@ -108,3 +108,19 @@ To add, modify or remove a member from the Team section, modify `_data/team.json
 To add images, add a member's portrait in `assets/img/team/[firstname]-[lastname].png` and it will be autodiscovered.
 
 To add icons for links, add them to `assets/img/icons/[service-name].svg`.
+
+### Blog posts
+
+To write a blog post, create a new markdown file to /blog folder with frontmatter of:
+
+```yaml
+---
+layout: layouts/blog.njk
+tags: post
+title: "[Blog title]"
+date: [YYYY-MM-DD]
+author: "[Author name]"
+---
+```
+
+Then write your blog post. It will appear in /blog index and get a URL of /blog/[slug] where [slug] is automatically slugified version of the title of the post.
