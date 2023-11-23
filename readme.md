@@ -124,3 +124,5 @@ author: "[Author name]"
 ```
 
 Then write your blog post. It will appear in /blog index and get a URL of /blog/[slug] where [slug] is automatically slugified version of the title of the post.
+
+Blog posts also support syntax highlighted code blocks. To create one, add a code block with triple backticks and language name (currently only supports Python).
