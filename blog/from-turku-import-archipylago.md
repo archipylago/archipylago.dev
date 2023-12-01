@@ -42,7 +42,7 @@ The first draft of **2024 calendar** looks like this:
 - September: meetup
 - October: sprint
 - November: meetup
-- December: spring
+- December: sprint
 
 This means 4 meetups and 4 sprints. But nothing is set to stone yet and we do want to get the community involved in organizing these things.
 
