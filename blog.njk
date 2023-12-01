@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+title: import blog
+---
+
+<section id="blog-index">
+<h1>import blog</h1>
+<p>
+    You can subscribe to our blog posts with <a href="/feed/feed.xml">RSS</a>.
+</p>
+<ul>
+    {% for post in collections.post | reverse %}
+    <li>
+        <span class="date">{{ post.data.date | toLocalDateYear }}</span>
+        <a href="{{post.url}}">{{ post.data.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
+</section>

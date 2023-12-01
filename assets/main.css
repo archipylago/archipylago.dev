@@ -22,6 +22,7 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 html,
 body {
   height: 100%;
+  font-size: 18px;
 }
 /*
     Typographic tweaks!
@@ -75,10 +76,14 @@ h6 {
 /* Our CSS */
 body {
   font-family: "Source Sans Pro", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 main {
   padding: 1em;
   margin-bottom: 2em;
+  flex: 1;
 }
 
 h2 {
@@ -295,15 +300,9 @@ footer .contact a:hover {
   margin-bottom: 1em;
 }
 
-header {
-  height: 300px;
-  max-height: 50vh;
-  background: url("/assets/img/banner.png") no-repeat;
-  background-position-x: 0%;
-  background-position-y: 0%;
-  background-size: auto;
-  background-size: cover;
-  background-position: 0;
+body > header {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1em;
 }
 
 header img {
@@ -482,3 +481,42 @@ section {
 a {
   color: #3776ab;
 }
+
+#blog-post {
+  max-width: 100ch;
+  margin: auto;
+}
+
+#blog-post p:not(:last-child), #blog-post ul {
+  margin-bottom: 1em;
+}
+
+#blog-post .info {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+#blog-post h2 {
+  font-size: 1.5em;
+  margin: 0.75em 0;
+}
+
+nav {
+  max-width: 80ch;
+  margin: auto;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1em;
+  justify-content: center;
+  padding: 0;
+
+}
+
+#blog-index h1 {
+  margin-bottom: 1em;
+}
+

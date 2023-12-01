@@ -1,4 +1,5 @@
 const filters = require("./_11ty/filters");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
@@ -7,6 +8,17 @@ module.exports = function (eleventyConfig) {
   Object.entries(filters).forEach(([name, callback]) => {
     eleventyConfig.addFilter(name, callback);
   });
+
+  let markdownIt = require("markdown-it");
+  let options = {
+    html: true,
+    breaks: true,
+    linkify: true,
+  };
+
+  eleventyConfig.setLibrary("md", markdownIt(options));
+
+  eleventyConfig.addPlugin(pluginRss);
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
