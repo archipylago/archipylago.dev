@@ -4,6 +4,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("slides");
+  eleventyConfig.addPassthroughCopy("_redirects");
 
   Object.entries(filters).forEach(([name, callback]) => {
     eleventyConfig.addFilter(name, callback);
