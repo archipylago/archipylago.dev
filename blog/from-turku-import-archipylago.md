@@ -18,7 +18,7 @@ Hi there, I'm <a href="https://hamatti.org">Juhis</a>. I'd like to tell you abou
 
 The first tech conference I ever attended was PyCon Finland right here in Turku in 2011. I was a second year computer science student and the conference was conveniently organized at the campus and the student ticket was cheap. I listened to [a couple of talks](https://pyvideo.org/events/pycon-finland-2011.html) and got a cool conference badge to take home.
 
-The [first tech conference talk](https://www.youtube.com/watch?v=Yi4uWzF6-Ug) I gave was few years later in PyCon Finland 2016. Ever since I've traveled around Europe attending and speaking at various Python meetups and conferences: Helsinki, Stockholm, Copenhagen, Tallinn, Berlin, Prague, Ostrava and Amsterdam to name a few. 
+The [first tech conference talk](https://www.youtube.com/watch?v=Yi4uWzF6-Ug) I gave was few years later in PyCon Finland 2016. Ever since I've traveled around Europe attending and speaking at various Python meetups and conferences: Helsinki, Stockholm, Copenhagen, Tallinn, Berlin, Prague, Ostrava and Amsterdam to name a few.
 
 I would say Python community is where my heart is and where I feel most at home. Now it's time for to start a new Python community here in Turku.
 
@@ -50,13 +50,13 @@ For **meetups**, we follow the classic meetup style: an evening event with a 2-3
 
 For **sprints**, we are organizing hands-on "bring your own laptop" style events, possibly on Saturdays where we either go through some workshops, work on open source projects or take a look at new tech or library and hack away together.
 
-For **social gatherings**, we'll organize something where we leave laptops home and get together for afterworks, lunches, and so on where there's no organized and scheduled program but a way for the people in the community to get to know each other. 
+For **social gatherings**, we'll organize something where we leave laptops home and get together for afterworks, lunches, and so on where there's no organized and scheduled program but a way for the people in the community to get to know each other.
 
 We would be happy to hear your thoughts on these plans.
 
 ## Join us
 
-If you're **a developer** interested in Python, join us in <a href="https://discord.gg/pAAARVc5F7">TurkuDev discord's archipylago channels</a> and register in <a href="https://meetabit.com/communities/archipylago">Meetabit</a> to make sure you don't miss out when we start sharing information of the upcoming events.
+If you're **a developer** interested in Python, join us in <a href="https://archipylago.dev/discord">TurkuDev discord's archipylago channels</a> and register in <a href="https://meetabit.com/communities/archipylago">Meetabit</a> to make sure you don't miss out when we start sharing information of the upcoming events.
 
 If you work in **a company** that uses Python, how about you host our meetup? Get in touch either in Discord or via email (juhamattisantala at gmail.com) and let's chat!
 
