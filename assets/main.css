@@ -88,7 +88,6 @@ main {
 
 h2 {
   font-size: 2.5em;
-  text-align: center;
   font-weight: 900;
 }
 
@@ -487,7 +486,8 @@ a {
   margin: auto;
 }
 
-#blog-post p:not(:last-child), #blog-post ul {
+#blog-post p:not(:last-child),
+#blog-post ul {
   margin-bottom: 1em;
 }
 
@@ -513,10 +513,8 @@ nav ul {
   gap: 1em;
   justify-content: center;
   padding: 0;
-
 }
 
 #blog-index h1 {
   margin-bottom: 1em;
 }
-
