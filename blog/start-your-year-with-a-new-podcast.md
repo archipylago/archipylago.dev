@@ -4,6 +4,7 @@ title: Start your year with a new podcast
 date: 2024-01-02
 author: Juhis
 tags: post
+image: /assets/img/posts/archipylago-blog-start-with-podcast.png
 ---
 
 The Python community is very active in the podcastsphere and there are many great ones to choose from.
