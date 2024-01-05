@@ -4,6 +4,7 @@ title: from turku import archipylago
 date: 2023-12-01
 author: Juhis
 tags: post
+image: /assets/img/posts/archipylago-blog-from-turku-import-archipylago.png
 ---
 
 ```python

@@ -1,5 +1,9 @@
-{% set meta_title = "archipylago" %} 
-{% set meta_description = "A friendly neighbourhood Python community in Turku." %}
+{% set meta_title = "archipylago" %}
+{% set meta_description = "A friendlyneighbourhood Python community in Turku." %}
+{%- set absolutePageUrl -%}{{ page.url | url | absoluteUrl(metadata.url) }}{%- endset -%}
+
+{%- set meta_image -%}{{ image or '/assets/img/share-banner.png'}}{%- endset  -%}
+
 
 <meta name="author" content="archipylago" />
 <meta
@@ -10,6 +14,7 @@
 <meta property="og:site_name" content="archipylago" />
 <meta property="og:title" content="{{ title or meta_title}}" />
 <meta property="og:description" content="{{description or meta_description}}" />
-<meta property="og:url" content="https://archipylago.dev" />
+<meta property="og:url" content="{{ absolutePageUrl }}" />
 <meta property="og:locale" content="en-US" />
-<meta property="og:image" content="/assets/img/share-banner.png" />
+<meta property="og:image" content="https://archipylago.dev{{meta_image}}" />
+<link rel="me" href="https://mementomori.social/@archipylago" />
