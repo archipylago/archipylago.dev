@@ -8,7 +8,7 @@ module.exports = {
 
   toLocalDateYear: function (date) {
     const d = new Date(date);
-    return `${d.getDate()}.${d.getMonth() + 1}.${d.getFullYear()}`;
+    return `${String(d.getDate()).padStart(2, '0')}.${String(d.getMonth() + 1).padStart(2, '0')}.${d.getFullYear()}`;
   },
 
   formatHost: function (host) {
