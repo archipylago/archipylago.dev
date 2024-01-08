@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "date": "2014-01-11",
+        "host": "Valohai",
+        "talks": [
+          {
+            "title": "Modern Python packaging",
+            "speaker": "Aarni Koskela",
+            "description": "Still using setup.py and requirements.txt for your library or application? You probably shouldn't be! A small tour and opinionated talk on newer (and arguably better) alternatives.",
+            "url": null
+          },
+          {
+            "title": "Debugging Python",
+            "speaker": "Juha-Matti Santala",
+            "description": "Debugging can be a stressful experience to a developer. In this talk, I provide practical and hands-on tips both for dealing both with the mental side and the technical tools and approaches that can help Python developers turn stressful debugging situations into joyful experiences.",
+            "url": null
+          }
+        ]
+      }
+]
