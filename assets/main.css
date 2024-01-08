@@ -215,6 +215,7 @@ footer {
 
 footer h2 {
   text-transform: uppercase;
+  text-align: center;
 }
 
 footer .container {
