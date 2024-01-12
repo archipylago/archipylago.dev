@@ -7,7 +7,7 @@ tags: post
 image: /assets/img/posts/archipylago-blog-our-first-sprint-in-february.png
 ---
 
-After [a successful kick off meetup](/blog/archipylago-1-debugging-python-and-packaging) last week at [Valohai](https://valohai.com), it's time to direct our focus on the next event: our first **sprint**.
+After [a kick-ass kick off meetup](/blog/archipylago-1-debugging-python-and-packaging) last week at [Valohai](https://valohai.com), it's time to direct our focus on the next event: our first **sprint**.
 
 The sprint will take place Saturday, 24.2.2024 12-16 at [SparkUp](https://sparkup.businessturku.fi/en/), Tykistökatu 4B.
 
@@ -15,7 +15,7 @@ In [our introduction blog post](/blog/from-turku-import-archipylago), I describe
 
 > For **sprints**, we are organizing hands-on "bring your own laptop" style events, possibly on Saturdays where we either go through some workshops, work on open source projects or take a look at new tech or library and hack away together.
 
-For this first event, we picked a theme of **automated testing**. There won't be a strict program for the day, rather a 4-hour window where you can join a group of fellow Pythonistas to work on things and learn new things.
+For this first event, we picked a theme of **automated testing**. There won't be a strict program for the day, but rather a 4-hour window where you can join a group of fellow Pythonistas to work on things and learn new things.
 
 ## How does it work?
 
