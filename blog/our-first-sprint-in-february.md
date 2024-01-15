@@ -1,7 +1,7 @@
 ---
 layout: layouts/blog.njk
 title: Our first sprint in February
-date: 2024-01-16
+date: 2024-01-17
 author: Juhis
 tags: post
 image: /assets/img/posts/archipylago-blog-our-first-sprint-in-february.png
