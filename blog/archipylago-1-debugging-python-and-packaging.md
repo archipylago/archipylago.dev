@@ -13,7 +13,7 @@ Last week we hosted our first meetup at [Valohai](https://valohai.com)'s office.
 
 For this first event, we had two talks and a good community discussion and a lovely archipelago themed offering of [saaristolaisleipä](https://en.wiktionary.org/wiki/saaristolaisleip%C3%A4) (lit. archipelago bread) and toast skagen.
 
-## Python Packaging (PEP 517/518) by Aarni Koskela
+## Modern Python Packaging by Aarni Koskela
 
 ![A group of developers sitting on a sofa and chairs in an office room with Aarni standing next to a screen, speaking to the audience.](/assets/img/posts/archipylago-1-packaging-debugging-python/fa771f4ff8f66fb1.jpg)
 
