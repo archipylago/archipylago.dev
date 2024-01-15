@@ -232,11 +232,14 @@ footer .container {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  align-items: center;
+  gap: 2em;
+  padding: 2em 0;
 }
+
 footer .container span {
   display: inline-block;
   width: 40px;
-  margin: 2rem;
 }
 
 footer .container svg {
