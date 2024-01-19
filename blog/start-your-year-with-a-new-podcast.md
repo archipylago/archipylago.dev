@@ -49,3 +49,7 @@ The podcast focuses on highlighting the voices of Python community members from 
 ## Django Riffs
 
 [Django Riffs](https://djangoriffs.com/) by Matt Layman is an educational podcast that helps people get started with developing websites and web applications with Django. It's a great companion to the Django tutorial if you're looking for some extra guidance when you're learning.
+
+## Sad Python Girls Club
+
+[Sad Python Girls Club](https://www.podchaser.com/podcasts/sad-python-girls-club-4703498) is a podcast by Luciana Abud and Dawn Wages who work at Microsoft and share insights into Python world from the VS Code Python team.
