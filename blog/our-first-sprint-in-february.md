@@ -27,6 +27,8 @@ But you are also welcome to use this time slot as a "get-stuff-done" time for wr
 
 Finally, at the end of the day, let's do a short demo round where people can share what they worked on and what they learned.
 
+We've added detailed instructions on [how to get started](/sprints/1/).
+
 ## Join the event
 
 To join, sign up at [Meetabit](https://meetabit.com/events/archipylago-2-february-2024-at-sparkup), bring your own laptop (and remember a charger!) and an open mind.
