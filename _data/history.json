@@ -16,5 +16,13 @@
         "url": "https://hamatti.org/talks/debugging-python"
       }
     ]
+  },
+  {
+    "date": "2014-02-24",
+    "host": "SparkUp",
+    "special": {
+      "name": "Testing Sprint",
+      "description": "Our <a href='/blog/our-first-sprint-in-february/'>first sprint</a> in February was focused around polishing our skills in writing tests."
+    }
   }
 ]
