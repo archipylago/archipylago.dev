@@ -24,5 +24,23 @@
       "name": "Testing Sprint",
       "description": "Our <a href='/blog/our-first-sprint-in-february/'>first sprint</a> in February was focused around polishing our skills in writing tests."
     }
+  },
+  {
+    "date": "2014-03-14",
+    "host": "Taiste",
+    "talks": [
+      {
+        "title": "Good-enough SRE for production software projects",
+        "speaker": "Magdalena Stenius",
+        "description": "During the past couple of years, SRE seems to have become the new hype-word of engineering. In this talk I’ll walk you through some of the basic themes of it and a practical example of good-enough SRE practices for Wolts personalisation-api service, the central service for multiple models catering to our global user base every day.",
+        "url": null
+      },
+      {
+        "title": "Implementing and using Rule-based systems in Python",
+        "speaker": "Mikko Harju",
+        "description": "In this talk, we will explore what rule-based systems are, how to use the py-rete as the foundation to create your own rule-based systems and extend the syntax a bit to aid simpler definition of specific rules.",
+        "url": null
+      }
+    ]
   }
 ]
