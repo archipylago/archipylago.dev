@@ -53,3 +53,7 @@ The podcast focuses on highlighting the voices of Python community members from 
 ## Sad Python Girls Club
 
 [Sad Python Girls Club](https://www.podchaser.com/podcasts/sad-python-girls-club-4703498) is a podcast by Luciana Abud and Dawn Wages who work at Microsoft and share insights into Python world from the VS Code Python team.
+
+## Django Brew
+
+[Django Brew](https://www.djangobrew.com/) started in March 2024 and is a "fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!" Adam and Sangeeta are both Python developers
