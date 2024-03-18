@@ -57,3 +57,7 @@ The podcast focuses on highlighting the voices of Python community members from 
 ## Django Brew
 
 [Django Brew](https://www.djangobrew.com/) started in March 2024 and is a "fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!" Adam and Sangeeta are both Python developers
+
+## PyBites
+
+[PyBites](https://www.pybitespodcast.com/) by Bob Belderbos and Julian Sequeira is a podcast about Python development, career and mindset skills. They bring in regular guests from the Python community to discuss various topics. The podcast is focused on people, their stories and careers.
