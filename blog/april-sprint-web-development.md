@@ -9,7 +9,7 @@ image: /assets/img/posts/archipylago-blog-april-sprint-2024.png
 
 Last week we had [a wonderful meetup](/blog/archipylago-3-sre-rule-based-systems) at [Taiste](https://taiste.fi), thanks Magdalena and Mikko for the talks, Taiste for hosting and everyone who joined for great discussions and good vibes.
 
-Our next event is a sprint on Saturday 13.4. 12-16 at [SparkUp](https://sparkup.businessturku.fi/en/). You can sign up for the event at [https://meetabit.com/events/archipylago-4-april-2024-at-sparkup].
+Our next event is a sprint on Saturday 13.4. 12-16 at [SparkUp](https://sparkup.businessturku.fi/en/). You can sign up for the event at [Meetabit](https://meetabit.com/events/archipylago-4-april-2024-at-sparkup).
 
 ## What are sprints?
 
