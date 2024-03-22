@@ -27,6 +27,8 @@ You're **encouraged to ask questions and seek for help** during sprints from oth
 
 Python is a wonderful language for web development and the community has built many different tools to build backends. During the sprint, you can pick one of these (or any others you feel like learning!):
 
+Pamela Fox has created and collected good resources and example apps to learn any of the three at [Python Web Apps: Teaching Materials](https://github.com/pamelafox/python-web-apps).
+
 ### Django
 
 [Django](https://www.djangoproject.com/) is a great place to start if you want to learn web development with Python and don't know where to start.
