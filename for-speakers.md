@@ -31,3 +31,19 @@ If you'd like to give a talk but don't yet know quite what about, here are some 
 Juhis has shared more ideas with examples in his blog: [Talk ideas for new and experienced speakers](https://hamatti.org/posts/talk-ideas-for-new-and-experienced-speakers/) that you can check out for inspiration.
 
 If you want help with ideation, crafting the talk and practice before the meetup, we're happy to help you out!
+
+## Schedule
+
+A rough schedule for our events looks like this:
+
+18.00 Doors open  
+18.10 Hello from hosting company
+18.20 1st talk
+18.50 Break  
+19.10 2nd talk
+19.40 Socializing  
+20.30 Post-meetup discussions at a local pub
+
+but the exact timings inside the event can shift around.
+
+Especially if you're arriving from out of town or have other schedule related constraints, please let us know and we'll adjust the schedule to fit your schedule the best.
