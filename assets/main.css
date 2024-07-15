@@ -499,23 +499,28 @@ a {
   color: #3776ab;
 }
 
-#blog-post {
+#blog-post,
+.page {
   max-width: 100ch;
   margin: auto;
 }
 
 #blog-post p:not(:last-child),
-#blog-post ul {
+#blog-post ul,
+.page p:not(:last-child),
+.page ul {
   margin-bottom: 1em;
 }
 
-#blog-post .info {
+#blog-post .info,
+.page .info {
   text-align: center;
   font-style: italic;
   margin-bottom: 1em;
 }
 
-#blog-post h2 {
+#blog-post h2,
+.page h2 {
   font-size: 1.5em;
   margin: 0.75em 0;
 }
@@ -533,6 +538,7 @@ nav ul {
   padding: 0;
 }
 
-#blog-index h1 {
+#blog-index h1,
+.page h1 {
   margin-bottom: 1em;
 }
