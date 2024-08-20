@@ -42,5 +42,13 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2014-04-13",
+    "host": "SparkUp",
+    "special": {
+      "name": "Web Dev Sprint",
+      "description": "Our second sprint focused on web development tools like Django, Flask and FastAPI."
+    }
   }
 ]
