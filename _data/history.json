@@ -50,5 +50,23 @@
       "name": "Web Dev Sprint",
       "description": "Our second sprint focused on web development tools like Django, Flask and FastAPI."
     }
+  },
+  {
+    "date": "2014-09-12",
+    "host": "Sofokus",
+    "talks": [
+      {
+        "title": "Vector Embeddings: Clustering, Recommendations, and Visualization in Python",
+        "speaker": "Robert Siipola",
+        "description": "",
+        "url": null
+      },
+      {
+        "title": "Building web-APIs with Python",
+        "speaker": "Calle Laakkonen",
+        "description": "A quick introduction to building REST and GraphQL APIs using different frameworks to suit all occasions, from simple minimalistic utilities to big web applications.",
+        "url": null
+      }
+    ]
   }
 ]
