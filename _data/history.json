@@ -68,5 +68,22 @@
         "url": null
       }
     ]
+  },{
+    "date": "2014-11-14",
+    "host": "Vincit",
+    "talks": [
+      {
+        "title": "Deep dive into Python generators",
+        "speaker": "Janne Rönkkö",
+        "description": "Generators can be found pretty much every Python project -- you might be using those without realizing it. In this talk we will explore what Python's generators are, how they work, their pitfalls and how you can utilize those in your own projects.",
+        "url": null
+      },
+      {
+        "title": "Let’s be BFFs <3",
+        "speaker": "Mila Grigoryeva",
+        "description": "Let’s look into a web development design pattern called BFF - Backend for Frontend. In this talk, I will walk you through the main concepts as well as share both pros and cons of using such a design pattern in your web system.",
+        "url": null
+      }
+    ]
   }
 ]
