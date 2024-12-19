@@ -68,7 +68,8 @@
         "url": null
       }
     ]
-  },{
+  },
+  {
     "date": "2014-11-14",
     "host": "Vincit",
     "talks": [
@@ -85,5 +86,13 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2014-12-12",
+    "host": "University of Turku",
+    "special": {
+      "name": "Advent of Code Sprint",
+      "description": "In December we got together to solve Advent of Code puzzles together at Konttori."
+    }
   }
 ]
