@@ -1,17 +1,27 @@
 [
   {
-    "date": "2024-09-12",
-    "url": "https://www.meetabit.com/events/archipylago-5-september-2024-at-sofokus",
-    "host": "Sofokus"
+    "date": "2025-01-16",
+    "url": "",
+    "host": "Taiste"
   },
   {
-    "date": "2024-11-14",
-    "url": "https://www.meetabit.com/events/archipylago-6-november-2024-at-vincit",
-    "host": "Vincit"
+    "date": "2025-02-13",
+    "url": "",
+    "host": "Sprint at Konttori"
   },
   {
-    "date": "2024-12-12",
-    "url": "https://www.meetabit.com/events/archipylago-7-sprint-at-konttori",
-    "host": "Advent of Code sprint at Konttori"
+    "date": "2025-03-13",
+    "url": "",
+    "host": "Arado"
+  },
+  {
+    "date": "2025-04-10",
+    "url": "",
+    "host": "Sprint at TBA"
+  },
+  {
+    "date": "2025-05-15",
+    "url": "",
+    "host": "TBA"
   }
 ]
