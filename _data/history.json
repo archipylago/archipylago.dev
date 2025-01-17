@@ -87,6 +87,7 @@
       }
     ]
   },
+
   {
     "date": "2014-12-12",
     "host": "University of Turku",
@@ -94,5 +95,29 @@
       "name": "Advent of Code Sprint",
       "description": "In December we got together to solve Advent of Code puzzles together at Konttori."
     }
+  },
+  {
+    "date": "2015-01-16",
+    "host": "Taiste",
+    "talks": [
+      {
+        "title": "Python notebooks and version controlling",
+        "speaker": "Ilkka Vuorio",
+        "description": "Notebooks are the wrong tool for so many problems, but they do wonders for others. But how do you version-control them without losing it?",
+        "url": null
+      },
+      {
+        "title": "Meson: a build system in and for Python",
+        "speaker": "Jussi Pakkanen",
+        "description": "Meson is a build system for compiled languages like C, C++ and Rust that has been designed from the ground up for usability. In this presentation we look how it can be used to build a cross platform project that is then exposed to Python and even uploaded to PyPI. Jussi Pakkanen is the creator and current project lead of Meson. He has worked on software projects ranging from data analysis to the Linux desktop, embedded development and multimedia frameworks. He is currently enjoying a sabbatical year.",
+        "url": null
+      },
+      {
+        "title": "Lightning talk: Python news!",
+        "speaker": "Hugo van Kemenade",
+        "description": "Hugo will share some news from the Python ecosystem in a lightning talk!",
+        "url": null
+      }
+    ]
   }
 ]
