@@ -119,5 +119,43 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2015-02-13",
+    "host": "University of Turku",
+    "special": {
+      "name": "Sprint",
+      "description": "In February, we got together to work on our own projects."
+    }
+  },
+  {
+    "date": "2015-03-13",
+    "host": "Arado",
+    "talks": [
+      {
+        "title": "Let's build an overengineered LLM pipeline",
+        "speaker": "Juho Ylikylä",
+        "description": "Overengineering is fun but not safe for work. Since we are off the clock, let's go wild and use select hyped open-source Python generative AI libraries and build a thing.",
+        "url": null
+      },
+      {
+        "title": "Contemporary Documentation",
+        "speaker": "Juha-Matti Santala",
+        "description": "Teams change often. People leave and people join. In addition to those changes, we tend to forget what we were thinking. That's why it's a good practice to document those thoughts, discussions and decisions into a format that doesn't lose them. In this talk I explore ways to use tools and processes you might be familiar with - version control and project management tools - to help you document the motivation, thoughts and intents behind changes when they happen. You'll get practical tips that you can take back to your work the next day.",
+        "url": null
+      },
+      {
+        "title": "Lightning talk: Single-file executable scripts with uv",
+        "speaker": "Tero Ykspetäjä",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Lightning talk: PyO3 uniting Python and Rust",
+        "speaker": "Aarni Koskela",
+        "description": null,
+        "url": null
+      }
+    ]
   }
 ]
