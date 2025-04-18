@@ -1,6 +1,6 @@
 [
   {
-    "date": "2014-01-11",
+    "date": "2024-01-11",
     "host": "Valohai",
     "talks": [
       {
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "date": "2014-02-24",
+    "date": "2024-02-24",
     "host": "SparkUp",
     "special": {
       "name": "Testing Sprint",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "date": "2014-03-14",
+    "date": "2024-03-14",
     "host": "Taiste",
     "talks": [
       {
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "date": "2014-04-13",
+    "date": "2024-04-13",
     "host": "SparkUp",
     "special": {
       "name": "Web Dev Sprint",
@@ -52,7 +52,7 @@
     }
   },
   {
-    "date": "2014-09-12",
+    "date": "2024-09-12",
     "host": "Sofokus",
     "talks": [
       {
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "date": "2014-11-14",
+    "date": "2024-11-14",
     "host": "Vincit",
     "talks": [
       {
@@ -89,7 +89,7 @@
   },
 
   {
-    "date": "2014-12-12",
+    "date": "2024-12-12",
     "host": "University of Turku",
     "special": {
       "name": "Advent of Code Sprint",
@@ -97,7 +97,7 @@
     }
   },
   {
-    "date": "2015-01-16",
+    "date": "2025-01-16",
     "host": "Taiste",
     "talks": [
       {
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "date": "2015-02-13",
+    "date": "2025-02-13",
     "host": "University of Turku",
     "special": {
       "name": "Sprint",
@@ -129,7 +129,7 @@
     }
   },
   {
-    "date": "2015-03-13",
+    "date": "2025-03-13",
     "host": "Arado",
     "talks": [
       {
