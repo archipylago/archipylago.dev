@@ -157,5 +157,13 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-04-10",
+    "host": "University of Turku",
+    "special": {
+      "name": "Sprint",
+      "description": "In April, we got together to work on our own projects."
+    }
   }
 ]
