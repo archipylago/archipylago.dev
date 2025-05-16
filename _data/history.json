@@ -165,5 +165,35 @@
       "name": "Sprint",
       "description": "In April, we got together to work on our own projects."
     }
+  },
+  {
+    "date": "2025-05-15",
+    "host": "Sofokus",
+    "talks": [
+      {
+        "title": "Locale codes for fun and profit",
+        "speaker": "Eemeli Aro",
+        "description": "Languages on the internet are identified by locale codes: fi, es-419, zh-Hant, and many more. Let me show you why these matter more than you think, take you down some of their less familiar pathways, and share some of the work we're doing in defining a few that don't quite exist yet, like en-ZZ and zxx.",
+        "url": null
+      },
+      {
+        "title": "Type safe data validation with Pydantic",
+        "speaker": "Calle Laakkonen",
+        "description": "Motivation: why do we want to validate our input data in the first place Quick intro to Python type hints Pydantic for data validation and examples",
+        "url": null
+      },
+      {
+        "title": "Lightning talk: PyCon Finland",
+        "speaker": "Asko Soukka",
+        "description": null,
+        "url": null
+      },
+      {
+        "title": "Lightning talk: typtyp: Generate TypeScript types from Python code ",
+        "speaker": "Aarni Koskela",
+        "description": null,
+        "url": null
+      }
+    ]
   }
 ]
