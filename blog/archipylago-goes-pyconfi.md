@@ -19,4 +19,4 @@ We are planning the trip in our [TurkuDev Discord](https://archipylago.dev/disco
 
 Everyone will buy their own PyCon Finland ticket and eventually train tickets but depending on how many people are joining, I'll try to coordinate something with VR to see if we could get some sort of a cabinet for the trip. So buy your conference ticket now and let's coordinate the train ticket purchases later.
 
-The [Call for Proposals](https://2025.ploneconf.org/call-for-papers) for the conference is open until 31.7. so if you have something you wanna share, submit your talk! And if you get selected, we can offer you an opportunity to practice your talk in our October meetup.
+The [Call for Proposals](https://2025.ploneconf.org/call-for-papers) for the conference is open until 31.7. so if you have something you wanna share, submit your talk! And if you get selected, we can offer you an opportunity to practice your talk in our September meetup.
