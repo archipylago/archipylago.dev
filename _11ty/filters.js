@@ -3,12 +3,14 @@ const slugify = require("slugify");
 module.exports = {
   toLocalDate: function (date) {
     const d = new Date(date);
-    return `${d.getDate()}.${d.getMonth() + 1}`;
+    return `${d.getDate()}.${d.getMonth() + 1}.`;
   },
 
   toLocalDateYear: function (date) {
     const d = new Date(date);
-    return `${String(d.getDate()).padStart(2, '0')}.${String(d.getMonth() + 1).padStart(2, '0')}.${d.getFullYear()}`;
+    return `${String(d.getDate()).padStart(2, "0")}.${String(
+      d.getMonth() + 1
+    ).padStart(2, "0")}.${d.getFullYear()}`;
   },
 
   formatHost: function (host) {
