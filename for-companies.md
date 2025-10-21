@@ -15,7 +15,7 @@ Our meetups happen on Thursday evenings, 18.00-20.30 and consist of a short comp
 
 We as the **organizers** take care of booking the speakers, handling marketing and registrations and bringing the community to your office.
 
-You as the sponsoring **company** in return offer us space for the event with AV setup (minimum of a display that we can connect laptops to) as well as food and drinks for the participants.
+You as the sponsoring **company** in return offer us space for the event with AV setup (minimum of a display that we can connect laptops to) as well as food and drinks for the participants. You are more than welcome to share the event both before and after in your channels.
 
 How many people we bring in always depends on the available space and company: we usually aim to have space for 20-50 people. That's usually been the amount of people offices in Turku are able to accomodate.
 
