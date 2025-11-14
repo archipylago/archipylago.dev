@@ -213,5 +213,35 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-11-13",
+    "host": "Knowit",
+    "talks": [
+      {
+        "title": "Is keyword search dead?",
+        "speaker": "Niklas Nevalainen",
+        "description": "Search powers many of the AI systems built today yet it's often treated as an afterthought. In this talk I'll break down how keyword and vector searches differ, and show how these perform in an Elasticsearch demo. We'll also take a look at what happens when you mix the two. This talk is about inverted indices, relevance, signals, hobbits, and perhaps some learnings as well.",
+        "url": null
+      },
+      {
+        "title": "States, Events, Action!",
+        "speaker": "Stephen Sullivan",
+        "description": "An example of building a 'event driven finite state machine' in Python. We'll cover: Why implementing a soluton from an existing pattern can be a good idea The finite state machine as a pattern for bringing order to chaos A walkthrough of coding one in Python. A practical talk aimed at both early career developers and those who like arguing about abstractions.",
+        "url": null
+      },
+      {
+        "title": "Lightning talk: Python 3.14 news",
+        "speaker": "Hugo van Kemenade",
+        "description": "What's new in Python 3.14",
+        "url": null
+      },
+      {
+        "title": "Lightning talk: Profiling Python code using Viztracer",
+        "speaker": "Aarni Koskela",
+        "description": "",
+        "url": null
+      }
+    ]
   }
 ]
