@@ -243,5 +243,13 @@
         "url": null
       }
     ]
+  },
+  {
+    "date": "2025-12-11",
+    "host": "University of Turku",
+    "special": {
+      "name": "Advent of Code Sprint",
+      "description": "We got together to solve Advent of Code puzzles, learn programming and catch up before the holidays."
+    }
   }
 ]
