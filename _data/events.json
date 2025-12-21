@@ -1,17 +1,27 @@
 [
   {
-    "date": "2025-10-09",
-    "url": "https://www.meetabit.com/events/archipylago-13-october-2025-at-konttori",
-    "host": "Konttori"
+    "date": "2026-01-15",
+    "url": "",
+    "host": "meetup at TBA"
   },
   {
-    "date": "2025-11-13",
-    "url": "https://www.meetabit.com/events/archipylago-14-november-2025-at-knowit",
-    "host": "Knowit"
+    "date": "2026-02-12",
+    "url": "",
+    "host": "sprint at TBA"
   },
   {
-    "date": "2025-12-11",
-    "url": "https://www.meetabit.com/events/archipylago-15-december-sprint-at-konttori",
-    "host": "Sprint at Konttori"
+    "date": "2026-03-12",
+    "url": "",
+    "host": "meetup at TBA"
+  },
+  {
+    "date": "2026-04-09",
+    "url": "",
+    "host": "sprint at TBA"
+  },
+  {
+    "date": "2026-05-21",
+    "url": "",
+    "host": "meetup at TBA"
   }
 ]
