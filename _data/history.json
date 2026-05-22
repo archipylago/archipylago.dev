@@ -251,5 +251,23 @@
       "name": "Advent of Code Sprint",
       "description": "We got together to solve Advent of Code puzzles, learn programming and catch up before the holidays."
     }
+  },
+  {
+    "date": "2026-05-21",
+    "host": "Readit",
+    "talks": [
+      {
+        "title": "How to become a Python release manager",
+        "speaker": "Hugo van Kemenade",
+        "description": "",
+        "url": null
+      },
+      {
+        "title": "AI-Assisted Python Development in Embedded Environments",
+        "speaker": "Henrik Terävä & Mikael Heikkinen",
+        "description": "This talk explores how AI can assist Python development directly within embedded environments. Using PALL0 as a real-world case, we walk through designing and implementing a lightweight AI coding assistant integrated into a live system. The session highlights how AI can shift development from traditional coding toward more natural, interaction-driven workflows.",
+        "url": null
+      }
+    ]
   }
 ]
